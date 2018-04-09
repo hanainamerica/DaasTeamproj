@@ -1,0 +1,16 @@
+Jackson St,N 1st St,,Jackson St,N 2nd St
+E Empire St,N 1st St,,E Empire St,N 2nd St
+Jackson St,N 1st St,,E Empire St,N 1st St
+Jackson St,N 2nd St,,E Empire St,N 2nd St
+E Taylor St,N 2nd St,,E Taylor St,N 3rd St
+Jackson St,N 2nd St,,Jackson St,N 3rd St
+E Taylor St,N 2nd St,,Jackson St,N 2nd St
+E Taylor St,N 3rd St,,Jackson St,N 3rd St
+E Mission St,N 3rd St,,E Taylor St,N 3rd St
+E Mission St,N 4th St,,E Taylor St,N 4th St
+E Mission St,N 3rd St,,E Mission St,N 4th St
+E Taylor St,N 3rd St,,E Taylor St,N 4th St
+E Mission St,N 4th St,,E Hedding St,N 4th St
+E Mission St,N 5th St,,E Hedding St,N 5th St
+E Mission St,N 4th St,,E Mission St,N 5th St
+E Hedding St,N 4th St,,E Hedding St,N 5th St

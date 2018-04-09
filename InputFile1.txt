@@ -1,0 +1,21 @@
+E Mission St,N 1st St,,E Mission St,N 2nd St
+E Mission St,N 1st St,,E Taylor St,N 1st St
+E Mission St,N 2nd St,,E Taylor St,N 2nd St
+E Taylor St,N 2nd St,,E Taylor St,N 1st St
+E Taylor St,N 2nd St,,E Taylor St,N 3rd St
+Jackson St,N 2nd St,,Jackson St,N 3rd St
+E Taylor St,N 2nd St,,Jackson St,N 2nd St
+E Taylor St,N 3rd St,,Jackson St,N 3rd St
+E Mission St,N 3rd St,,E Taylor St,N 3rd St
+E Mission St,N 4th St,,E Taylor St,N 4th St
+E Mission St,N 3rd St,,E Mission St,N 4th St
+E Taylor St,N 3rd St,,E Taylor St,N 4th St
+Jackson St,N 1st St,,Jackson St,N 2nd St
+E Empire St,N 1st St,,E Empire St,N 2nd St
+Jackson St,N 1st St,,E Empire St,N 1st St
+Jackson St,N 2nd St,,E Empire St,N 2nd St
+Jackson St,N 3rd St,,Jackson St,N 4th St
+E Empire St,N 3rd St,,E Empire St,N 4th St
+Jackson St,N 3rd St,,E Empire St,N 3rd St
+Jackson St,N 4th St,,E Empire St,N 4th St
+
