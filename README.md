@@ -1,7 +1,7 @@
 # daas-teamproj
 finding-euler-circuit
 
-Another course I took in community college. And I put a lot of efforts to do this final team project. 
+DAAS(Data Abstraction and Structures) is another course I took in community college, and I put a lot of efforts to do this final team project. 
 
 Here is what I have learned from the project:
 
